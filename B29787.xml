@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short memorial humbly offered in behalf of the old English of Ireland. Praying to be govern'd by the parliament of England.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29787</idno><idno type="EEBO-CITATION">99886817</idno>
+  <idno type="VID">189483</idno>
+  <idno type="EEBO-PROQUEST">2240890768</idno>
+  
+            <idno type="STC">Wing S3605</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[56]</idno>
+            <idno type="STC">ESTC R226635</idno>
+            <idno type="PROQUEST">ocm99886817</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886817e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189483)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short memorial humbly offered in behalf of the old English of Ireland. Praying to be govern'd by the parliament of England.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">British --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1691- --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189483:1"/>
+            <head>A SHORT MEMORIAL Humbly Offered in behalf of the Old English of Ireland.</head>
+            <head type="sub">Praying to be Govern'd by the Parliament of <hi>ENGLAND.</hi>
+            </head>
+            <p>IT has been for a hundred years past a most undeniable Maxim, by woful experimental Knowledge (fre<g ref="char:EOLhyphen"/>quently) confirmed, that let what Government so<g ref="char:EOLhyphen"/>ever be established in <hi>England,</hi> the old <hi>English</hi> of <hi>Ireland</hi> never had better Treatment, than an Invasion of their Properties, a Confifcation of Estates, and a Desolution of their Rights; neither must the new <hi>English</hi> much longer expect to be better used; for as their Minority hitherto protected them, riper years will shew them, that as one Peg drives out another, so always a newer sort of <hi>English</hi> will drive out their elder Brethren, until that Kingdom, through the general discontent of all Parties ('tis to be feared) becomes a Prey to Foreigners.</p>
+            <p>If the Grounds of the last Wars in <hi>Ireland</hi> be but rightly considered, it is humbly supposed that the old <hi>English</hi> and <hi>Irish,</hi> who are one People, have not been so culpable, but some room may be found to excuse their Crimes from being interpreted unpardonable, they have not broke through any ancient Law, Statute, or Record, but had all the fundamental Laws in force then, in both Kingdoms (when they received Commissions, and took up Arms, as well in their Justification, as likewise in the defence of their own Civil, and Religious Rights, then threat'ned by a foreign Invasion) to fortifie, back, second, and guide them through that War; these things seri<g ref="char:EOLhyphen"/>ously weighed, and impartially consider'd, may give all unbiass'd Persons just cause to say, that it would be impa<g ref="char:EOLhyphen"/>ralell'd hardship, to take away the Subjects Lives, Liberties, and Estates, for acting in their own defence, and for making the Laws of their Country their Guide.</p>
+            <p>Now admitting it was a Fault in the old <hi>English</hi> to adhere unto, and to be guided by the Laws of this Hereditary Mo<g ref="char:EOLhyphen"/>narchy, according to its ancient Constitution, and that the old <hi>English</hi> have been since made sensible of their Errors, and since again upon their Submissions acknowledged King <hi>William,</hi> and the late Queen <hi>Mary</hi> for their lawful King, and Queen, and that King <hi>William,</hi> and Queen <hi>Mary</hi> received them into Subjection, and Protection, and staked down their Publick Faith as Pledges and Securities (of the highest Sanctimony) as well for to protect, as also to preserve them in the peaceable Posession and Enjoyment of their Lives, Liberties, and Properties, in as full, and in as ample a manner as they were protected, and preserved, in their Liberties, and Privileges, in the Reign of King <hi>Charles</hi> the Second. These were certainly the Terms, and Conditions, granted by King <hi>William,</hi> and Queen <hi>Mary,</hi> and upon which the People submitted, who have not from that day, to this, acted otherwise, than as became faithful Subjects (in Allegiance to King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi>) and if any be found among them that gave any cause of offence, let him be proceeded against by the same Law he so offended; and how far it may seem fit to the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> to keep Publick Faith with such Peo<g ref="char:EOLhyphen"/>ple, is most humbly submitted to higher, and better Consideration.</p>
+            <p>It seems there is a Clause in the Bill for Resumption of <hi>Irish</hi> Forfeitures, which imports, that all Persons, not proceeded against hitherto, shall be prosecuted to Outlawries, and Attainders, excepting those ad<g ref="char:EOLhyphen"/>judged within Articles. This is an odd distinction, that the same Publick Faith given to the Protectees, for their Security, and Protection, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all be violated; and, of the other hand, the same shall be performed to the Arti<g ref="char:EOLhyphen"/>cle-men. Now, with Submission, it should seem that the Protectees are preferable to King <hi>William,</hi> and Queen <hi>Mary</hi>'s Publick Faith, before the Article-men, (not to have the latter excluded by any means) for the Protectees had so much confidence in the great Security, and Pledges, tendered unto, and by them accepted of, that they have immediately submitted themselves to King <hi>William,</hi> and Queen <hi>Mary,</hi> and where so many thousand Families, without force, or compulsion, have yielded, and never deviated, nor varied since from the Allegiance they contracted upon themselves, by their said Submissions, I humbly say, and offer, that Common Justice in those Cases, together with the Laws of Nations, requires Pub<g ref="char:EOLhyphen"/>lick Faith to be kept, performed, and in every part main<g ref="char:EOLhyphen"/>tain'd with such a People; and the obligation of perfor<g ref="char:EOLhyphen"/>mance is so much the greater, because they have not put King <hi>William</hi> to the Charges of their Reduction, but freely submitted themselves to the Power, and Authority then, and now established: Whereas the Article-men contracted abundance of Expences by their prolonging the War, and holding out against <hi>England;</hi> and that the same Faith broke with the former, shall be maintained to the latter, is, but in a manner, excusing the one, and condeming the other, when at the same time, they have both equal Right to Publick Faith. It is very obser<g ref="char:EOLhyphen"/>vable that it was upon such a pernicious distinction, the Crown of <hi>Spain</hi> lost the <hi>Netherlands;</hi> For <hi>Alexander Farnesse,</hi> Duke of <hi>Parma,</hi> during his Government of the <hi>Low Countries,</hi> kept his Faith very inviolable with the Inhabitants, and the Subjects likewise in due obedience to the Crown. But when the imperious Duke of <hi>Alva</hi> enter'd that Government, he made large Protestations to the People in behalf of his Master: But when he thought himself vested of all the Power, he broke all his Promises, and would not perform a tittle, but what should be pro<g ref="char:EOLhyphen"/>duced in Writing under his Hand and Seal But here ob<g ref="char:EOLhyphen"/>serve,<note place="margin">☜</note> that upon his non-performance of Publick Faith the People of the <hi>Netherlands</hi> all revolted, shaked off their Subjection to <hi>Spain,</hi> and since grew from a much more despicable, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontemptible Subjects, than the old <hi>English,</hi> and <hi>Irish</hi> are at this juncture of their greatest Tribulation, until the former became a Free People, and are at this time well known to be the most potent Republick in the Universe, and <hi>Spain</hi> but a drooping Monarchy: Whereas if Faith had been kept with them formerly, 'tis believ'd they would be as great Slaves to <hi>Spain,</hi> until this day, as the old <hi>English</hi> are to the <hi>Irish</hi> Parliament, at this time.</p>
+            <p>That Clause in the Bill of Resumption, which directs the Protectees to be proceeded against, as spoke of before, carries so much destruction along with it, that 'tis as kil<g ref="char:EOLhyphen"/>ling as the War it self was, because nothing can be termed more destructive, than to revive old Rancour, and Malice, by laying open those old Wounds healed up, after so long
+<pb facs="tcp:189483:2"/> a time, which is refreshing, and bringing upon a Publick Stage the former Animosities, which would much better suit the optimacy of any Government to bury such Cru<g ref="char:EOLhyphen"/>elties in oblivion, than to revive 'em <hi>de novo,</hi> and to go about to ravish from a ruined People, (who have rescued themselves, their Wives, Children, and Families, with the remainder of their broken Fortunes, out of the Ashes, and Embers of War, and Rapine) the Fruits of their eight or nine years labour, and industry, and all that time in the peaceable Protection of King <hi>William,</hi> and who thereby proposed to protract to themselves a poor contemptible Livelihood to support Nature; where<g ref="char:EOLhyphen"/>of, if the said Clause be not altered, they must be deprived, and drove to all manner of Exigencies. The Clause in the Bill spoke of, will not only exclude thousands unheard, but it will affect the little Children sleeping in the Loins of their Ancestors, and cause the little Babes (scarce a span long) crawling in their Mothers Bellies, by their Out-cries, in the inarticulate Language of Nature to wish themselves born Abborts, rather than live to succeed their Parents to be eternized to Bondage, and Slavery, which they must certainly expect, if the said Clause be neither mollified, mitigated, or totally abolished; for it involves the Lord, the Lady, the Gentleman, the Gentlewoman, the Widow, the Orphan, as well as the Lame, the Blind, the Distracted, and the Super-annuated, with the poor La<g ref="char:EOLhyphen"/>bourer too, without any distinction, or exception, but all mingled together, in one calamitous Common Ruine.</p>
+            <p>And as the Offences imputed to the distressed old <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> and <hi>Irish</hi> proceeded from the Impulse of Self-preserva<g ref="char:EOLhyphen"/>tion (an indelible Character wrote, and imprinted in e<g ref="char:EOLhyphen"/>very Man's mind by the very hand of Nature) rather than from Love to Rebellion, or Aversion to the <hi>English</hi> Go<g ref="char:EOLhyphen"/>vernment. So it is hoped therefore, that some Hero's are in both Houses of Parliament, that in so extensive a Ca<g ref="char:EOLhyphen"/>lamity (like Original Sin cleaving through Generations) will find the way to stop the Current, by early applying of some wholesome Rem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy, against so growing, and coming a Malady, whereby the renowned Memory of such Worthies may pass through the Alembick of Com<g ref="char:EOLhyphen"/>mon Fame; and that, by their extending so generous a Sympathy towards the Relief of their Fellow-Subjects, (now under the greatest Duress, and who must inevitably be condemned to perpetual Bondage, if not early rescued from the Jaws of a living Mortality) they may acquire to themselves Glory, Honour, and Renown, by their shew<g ref="char:EOLhyphen"/>ing of Mercy, when 'tis in their Power to destroy.</p>
+            <p>And as a Motive to induce the Parliament of <hi>England</hi> into a moderate Compliance, and to bury all for<g ref="char:EOLhyphen"/>mer Dissentions in oblivion, and to re-unite the Divisions among us, so as we may all be upon one Basis. The old <hi>English</hi> of <hi>Ireland</hi> have most insupportably suffered by the Pressures of the <hi>Irish</hi> Parliament, and, at this time, co<g ref="char:EOLhyphen"/>vets nothing more (under God) than to cast off that Yoke, and, in imitation of their <hi>English</hi> Ancestors, submit to the Laws, Statutes, and Ordinances made, or to be made in <hi>England:</hi> And as both Kingdoms are go<g ref="char:EOLhyphen"/>verned<note place="margin">
+                  <hi>It was so from the 5th of</hi> Ed. 3 <hi>to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 10th of</hi> Hen. 7.</note> by one Monarch, so they may have but one Parliament; And the old <hi>English</hi> to signifie their real Intentions, and that they are in earnest, for the Honour, and Interest of <hi>England,</hi> so they are all ready at home, and abroad, with hearts, and hands, to acknowledge, and submit unto the Authority of the Parliament of <hi>England,</hi> in open defiance of all the new <hi>English</hi> in <hi>Ireland,</hi> who are not one in ten at home, or abroad, to the old <hi>English,</hi> and <hi>Irish,</hi> who are both one Body, and one People, and inseparably united in one entire Interest, and equally desirous to embrace the imme<g ref="char:EOLhyphen"/>diate Laws and Edicts of the <hi>English</hi> Parliament, in <hi>Ireland.</hi>
+            </p>
+            <p>First, Let it be considered, that the old <hi>English,</hi> alone, are the primier Quality, the first Rank of Gentlemen, the greatest, and the most considerable Body, and there<g ref="char:EOLhyphen"/>fore, the most to be valued in <hi>Ireland.</hi>
+            </p>
+            <p>Secondly, that they are the Race of those <hi>English,</hi> and <hi>British</hi> Hero's, that first conquered that Kingdom, and e<g ref="char:EOLhyphen"/>ver since kept it in Subjection to the Imperial Crown of <hi>England;</hi> and that in the last War when it was in their power to subject themselves to <hi>France,</hi> and nothing more desired, nor coveted then by<note place="margin">Vide French <hi>Fide<g ref="char:EOLhyphen"/>lity to King</hi> James <hi>all Treachery.</hi>
+               </note> the <hi>French,</hi> than to have all the Forts, and strong Holds in <hi>Ireland</hi> put into their Power, having offered the old <hi>English</hi> to resettle them in all their Ancient Rights, in as ample, and full a manner, as they, or their Ancestors, were possessed of all such since the Conquest to that time. But the old <hi>English</hi> (who tho' ill, and most barbarously used at home) having the <hi>English</hi> Blood of their old Ancestors running in their Veins, chose rather to be Slaves (as they are this day) than accept of all the high Terms offered to be<g ref="char:EOLhyphen"/>come Subjects to <hi>France,</hi> and thereby be the Masters of their own Fortunes.</p>
+            <p>As for the new <hi>English,</hi> they are a new People that were planted in that Kingdom by <hi>Oliver Cromwel</hi>'s Usur<g ref="char:EOLhyphen"/>pation, a People ever since supported by the Parliaments of <hi>England</hi> in the Possessions of the old <hi>English,</hi> and the People likewise, that contended but some months since with the <hi>English</hi> Parliament for Privileges, and Superio<g ref="char:EOLhyphen"/>rity, and would have no more Mercy upon the Members thereof (if in their Power) at this time, than they have upon the old <hi>English,</hi> whom they seek by all unlawful means to extirpate Root and branch. In the first place, the new <hi>English</hi> are a People of so obscure Births, that the He<g ref="char:EOLhyphen"/>ralds of <hi>England</hi> know them not: Secondly, all the Estates they hold in <hi>Ireland,</hi> they enjoy by the Favour, and Cour<g ref="char:EOLhyphen"/>tesie of the <hi>English</hi> Parliament: And, thirdly, the new <hi>English</hi> have largely transgress'd, by their joining with foreign Interest, or new Grantees, composed of merce<g ref="char:EOLhyphen"/>nary Foreigners, and of immoral <hi>English</hi> Favourites, a<g ref="char:EOLhyphen"/>gainst the Interest of <hi>England,</hi> as appeared by their unani<g ref="char:EOLhyphen"/>mous Consent given, for to compose, print, publish, and present to King <hi>William,</hi> Mr. <hi>Mollineux</hi>'s Book, a Pam<g ref="char:EOLhyphen"/>phlet stuffed with Romances, and Fables, in order (as it was per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iciously intended) to establish in <hi>Ireland</hi> the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Staple, advance the <hi>Irish</hi> Rents, lower the <hi>English</hi> ones, and, in short, to make <hi>Ireland</hi> independent of <hi>England,</hi> and so ruine the <hi>English</hi> Trade: A Project never thought of, from the Conquest of that Kingdom (by the old <hi>English</hi>) to the late Revolution, which is somewhat above five hun<g ref="char:EOLhyphen"/>dred years: And to see a People of about Forty five years standing so imperiously attempting the Invasion of old <hi>English</hi> Rights) when the same People can call nothing their own, but what may be legally taken from them, when the <hi>English</hi> Parliament shall think fit) implies, that the longer they are protected, the more insolent they will grow, and the better they will b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enabled to execute their De<g ref="char:EOLhyphen"/>signs.</p>
+            <p>
+               <hi>Now</hi> Quere, <hi>Whether the Peace, and Tranquility of</hi> England, <hi>doth not require to smother the Ambition of so imperious a People, and to favour, and promote the old</hi> English, <hi>and make them the Balance to weigh down the new</hi> English, <hi>and the</hi> Irish Scots, <hi>as also to curh the insulting</hi> French, <hi>whose Insolence is unsupportable, so as neither of the Three, now in Conjunction together, may be left capable to join any other Interest, considering how much they conceive themselves equally injured by the Parliament of</hi> England: <hi>And as the new</hi> English <hi>are weary of being subjugated to the</hi> English <hi>Parliament, so the old</hi> English <hi>are re<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lved with all Vigour, Action, and Motion, to accept of, and embrace, all the Laws, and Statutes made, or at any time hereafter to be Enacted, in</hi> England, <hi>as mentioned before, as well for to rescue themselves, and their Posterities, from the Drudgery intail'd upon them, by the new</hi> English Irish <hi>Parliament; as also, to shew by their future Practices, that they are imbib'd with the Principles of their old</hi> English <hi>Ancestors, who never looked but one way, which was, to promote, and propugn, the Honour, and Gran<g ref="char:EOLhyphen"/>deur of</hi> England <hi>alone, and to secure to themselves their Rights, and their Liberties, upon that only Foundation: All which is most H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbly Submitted to the Honourable the Commons of</hi> England <hi>in Parliament, unto whom the old</hi> English <hi>at home, and abroad, appeal for Equity, Compassion, Protection, and Pardon. And the Author likewise, if he has any ways transgressed in the foregoing Discourse, he most humbly submits, and begs the Commons of</hi> England <hi>Pardon, for his high Presumption.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
